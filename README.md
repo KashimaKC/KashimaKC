@@ -1,4 +1,6 @@
-### Hi there 👋
+### KashimaKC - IT Systems Engineer
+
+Welcome to my profile! I like TypeScript and other things.
 
 <!--
 **KashimaKC/KashimaKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
