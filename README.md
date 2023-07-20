@@ -1,4 +1,4 @@
-### KashimaKC - IT Systems Engineer
+### KashimaKC - Information Technology
 
 Welcome to my profile! I like TypeScript and other things.
 
